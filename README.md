@@ -1,5 +1,5 @@
 # Adafruit-Huzzah-ESP8266-Basic-Breakout-PCB
-PCB files for Adafruit Huzzah ESP8266 Basic Breakout
+PCB files for Adafruit Huzzah ESP8266 Basic Breakout **modified to have VHS (hackspace.ca) logo**. This is to ensure no confusion with genuine Adafruit products.
 
 Format is EagleCAD schematic and board layout
 
